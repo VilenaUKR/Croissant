@@ -1,0 +1,25 @@
+body {
+  background: rgb(242, 218, 247);
+}
+
+.container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+li {
+  margin: 10px;
+}
+
+#croissant-img {
+  padding: 20px;
+  border-radius: 10%;
+  width: 650px;
+  height: 500px;
+}
